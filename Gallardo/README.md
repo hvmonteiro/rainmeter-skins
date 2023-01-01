@@ -22,3 +22,25 @@ These are the changes that you need to do to make everything work with your own 
 9. Select the "Download.ini" in the folder "Upload" and click the "Edit" button 
 10. Replace the value of "MaxUploadMbits" variable with your own bandwith upload value _(ex: MaxUploadMbits=6)_
 11. Now you can load all component from the skin and everything should be working
+
+# Screenshots
+
+## CPU and Disks
+![Gallardo Skin - CPU + Disks.png](https://github.com/hvmonteiro/rainmeter-skins/blob/ea5c7ae46a6b07c0add7844072473bc2376ae099/Gallardo/@Resources/Gallardo%20Skin%20-%20CPU%20+%20Disks.png)
+
+## CPU and GPU
+![Gallardo Skin - CPU + GPU.png](https://github.com/hvmonteiro/rainmeter-skins/blob/ea5c7ae46a6b07c0add7844072473bc2376ae099/Gallardo/@Resources/Gallardo%20Skin%20-%20CPU%20+%20GPU.png)
+
+## Clock
+![Gallardo Skin - Clock.png](https://github.com/hvmonteiro/rainmeter-skins/blob/ea5c7ae46a6b07c0add7844072473bc2376ae099/Gallardo/@Resources/Gallardo%20Skin%20-%20Clock.png)
+
+## Links
+![Gallardo Skin - Links.png](https://github.com/hvmonteiro/rainmeter-skins/blob/ea5c7ae46a6b07c0add7844072473bc2376ae099/Gallardo/@Resources/Gallardo%20Skin%20-%20Links.png)
+
+## Network 
+![Gallardo Skin - Network.png](https://github.com/hvmonteiro/rainmeter-skins/blob/ea5c7ae46a6b07c0add7844072473bc2376ae099/Gallardo/@Resources/Gallardo%20Skin%20-%20Network.png)
+
+## Running on a 5K Super UltraWide QHD (5120x1440) desktop
+![Gallardo Skin - Desktop (5K - SUWQHD).png](https://github.com/hvmonteiro/rainmeter-skins/blob/ea5c7ae46a6b07c0add7844072473bc2376ae099/Gallardo/@Resources/Gallardo%20Skin%20-%20Desktop%20(5K%20-%20SUWQHD).png)
+
+
