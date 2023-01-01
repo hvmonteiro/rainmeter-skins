@@ -1,0 +1,2 @@
+# Gallardo RainMeter skin
+This is a RainMeter skin based in the Modena skin found [here](https://www.deviantart.com/apexxx-sensei/art/Modena-770512921) merged with [CPU/GPU Temperature and Usage Monitor](https://www.deviantart.com/classic2203/art/Rainmeter-CPU-GPU-Temperature-and-Usage-Monitor-889867033), but modify by me so that components are  positioned on the left, right and bottom edges of the desktop workspace area automatically, irrespective of the screen resolution being used.
